@@ -1,0 +1,44 @@
+.x-main-background {
+    width: 100%;
+    height: 367px;
+    background: url('/public/background.jpg') no-repeat center center;
+    background-size: contain;
+    opacity: 0.85;
+}
+
+.x-main-mb {
+    /* margin-bottom: 367px; */
+    margin-bottom: 267px;
+}
+
+.x-main-logo {
+    line-height: 1;
+    font-size: .36rem;
+    padding: 1rem;
+}
+
+@media (min-width: 576px) {
+    .x-main-logo {
+        font-size: .36rem;
+    }
+}
+@media (min-width: 768px) {
+    .x-main-logo {
+        font-size: .48rem;
+    }
+}
+@media (min-width: 992px) {
+    .x-main-logo {
+        font-size: .62rem;
+    }
+}
+@media (min-width: 1200px) {
+    .x-main-logo {
+        font-size: .75rem;
+    }
+}
+@media (min-width: 1400px) {
+    .x-main-logo {
+        font-size: .875em;
+    }
+}

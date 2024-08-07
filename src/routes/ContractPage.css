@@ -1,0 +1,5 @@
+/* TODO */
+.nav-item .form-check .form-check-input:checked {
+    background-color: rgb(33, 37, 41) !important;
+    border-color: rgb(33, 37, 41) !important;
+}

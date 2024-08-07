@@ -1,0 +1,20 @@
+@media (min-width: 576px) {
+    .x-dashboard-sidebar {}
+}
+
+@media (min-width: 768px) {
+    .x-dashboard-sidebar {}
+}
+
+@media (min-width: 992px) {
+    .x-dashboard-sidebar {}
+}
+
+@media (min-width: 1200px) {
+    .x-dashboard-sidebar {}
+}
+
+@media (min-width: 1400px) {
+    /* TODO: position=fixed would be nice, but it enlarges the sidedbar... */
+    .x-dashboard-sidebar {}
+}
